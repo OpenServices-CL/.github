@@ -25,9 +25,9 @@ Our mission is to transform challenges into opportunities by providing reliable,
 We are always looking for talented individuals and collaborators to join our journey. Whether you are a developer, designer, or business professional, there are plenty of opportunities to contribute to our projects.
 
 ## Connect With Us
-- 🌐 Website: [OpenServices SpA](https://www.openservices.com)
-- 📧 Email: contact@openservices.com
-- 📞 Phone: +56 9 1234 5678
+- 🌐 Website: [OpenServices SpA](https://www.openservices.cl)
+- 📧 Email: contacto@openservices.cl
+- 📞 Phone: +56 9 45034185
 - 📍 Location: Santiago, Chile
 
 Thank you for visiting our GitHub profile! Feel free to explore our repositories and contribute to our open-source projects. Together, we can achieve great things. 💡
