@@ -30,5 +30,5 @@ We are always looking for talented individuals and collaborators to join our jou
 - 📞 Phone: +56 9 45034185
 - 📍 Location: Santiago, Chile
 
-Thank you for visiting our GitHub profile! Feel free to explore our repositories and contribute to our open-source projects. Together, we can achieve great things. 💡
+Thank you for visiting our GitHub profile! Feel free to explore our repositories and contribute to our projects. Together, we can achieve great things. 💡
 
